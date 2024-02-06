@@ -1,6 +1,6 @@
 
 
-Blog Name: iPortfolio
-Blog URL: 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
+Blog Name: Paul Kamau's Portfolio
+Blog URL: coming soon...
 Author: kapaut@gmail.com
-License: https://bootstrapmade.com/license/
+
